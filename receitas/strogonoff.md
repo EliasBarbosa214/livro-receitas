@@ -1,6 +1,6 @@
-#Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken:
 
-###Ingredientes
+### Ingredientes
 
 - **1kg** de _peito de frango_ sem pele.
 - **1** tablete de caldo de _galinha_.
@@ -11,3 +11,9 @@
 - **2** colheres de sopa de _mostarda_.
 - **Champignon**.
 - **Batata palha** e **arroz branco** para _acompanhar_.
+
+### Modo de Preparo
+
+- Prepare o _**Frango**_.
+- Prepare _**Tudo**_.
+- _Sirva_ :man_cook:
